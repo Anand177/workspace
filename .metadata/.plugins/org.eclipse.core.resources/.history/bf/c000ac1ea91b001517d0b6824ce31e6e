@@ -1,0 +1,5 @@
+package firstWC_namout;
+
+public class WordCountReducer {
+
+}

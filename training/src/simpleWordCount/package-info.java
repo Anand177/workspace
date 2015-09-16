@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author training
+ *
+ */
+package simpleWordCount;

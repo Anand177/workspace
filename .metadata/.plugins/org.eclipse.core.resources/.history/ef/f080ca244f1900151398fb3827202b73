@@ -1,0 +1,5 @@
+package firstWC_comp;
+
+public class WordCountReducer {
+
+}

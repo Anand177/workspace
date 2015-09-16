@@ -1,0 +1,13 @@
+package firstWC_namout;
+
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.io.*;
+
+public class WordCountReducer extends Reducer<Text, IntWritable, Text, Writable>{
+	
+	protected void reduce(Text key, Iterable<IntWritable> value, Context context){
+		
+		
+	}
+
+}
